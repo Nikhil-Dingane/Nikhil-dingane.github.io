@@ -6,4 +6,4 @@ Feel free to explore.
 
 ### Blogs
 
-1. [Starting with Unix Concepts and Application by Sumitabha Das](unix/start)
+1. [Starting with Unix Concepts and Application by Sumitabha Das](https://nikhil-dingane.github.io/unix/start)
